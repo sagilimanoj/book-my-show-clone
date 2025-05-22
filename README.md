@@ -23,7 +23,7 @@ Follow these steps to set up and run the project on your local machine:
 #### Clone the Repository:
 ```bash
 git clone https://github.com/sagili-manoj/book-my-show-clone.git
-cd book-my-show
+cd book-my-show-clone
 ```
 
 #### Install Dependencies:
