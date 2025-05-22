@@ -23,7 +23,7 @@ Follow these steps to set up and run the project on your local machine:
 ### Steps
 #### Clone the Repository:
 ```bash
-git clone https://github.com/sagilimanoj/book-my-show.git
+git clone https://github.com/sagili-manoj/book-my-show.git
 cd book-my-show
 ```
 
