@@ -102,7 +102,7 @@ If you'd like to contribute to this project, follow these steps:
 1. Fork the repository.
 2. Create a new branch:
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b origin/feature-name
    ```
 3. Commit your changes:
    ```bash
@@ -110,7 +110,7 @@ If you'd like to contribute to this project, follow these steps:
    ```
 4. Push to the branch:
    ```bash
-   git push origin feature/your-feature-name
+   git push origin origin/feature-name
    ```
 5. Open a pull request.
 
